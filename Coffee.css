@@ -1,0 +1,75 @@
+*{
+    padding: 2px;
+    background-color: brown;
+}
+
+a{
+    text-decoration: none;
+    text-decoration-color: black;
+    font-weight: 600; 
+    text-align: left;
+    color: white;
+}
+
+
+.full{
+    padding: 10px;
+}
+
+.cet{
+    text-align: center;
+}
+
+.pad{
+    padding-top: 50px ;
+    padding-bottom: 50px;
+}
+
+.si{
+    width: 5px;
+}
+
+.s-b{
+    padding-bottom: 50px;
+}
+
+.gallary{
+    border: 5px solid black;
+}
+
+.px{
+    width: 200px;
+}
+
+.log{
+    width: 50px;
+    float: right;
+}
+
+.wit{
+    color: white;
+}
+
+.bol{
+    font-weight: bolder;
+}
+
+.wit_back{
+    background-color: white;
+}
+
+/*.gallary{
+margin: 5px;
+float: left;
+width: 200px;
+}
+
+.cet{
+    align-items: center;
+}
+
+.pad_top{
+    padding-top: 50px;
+}
+
+*/
